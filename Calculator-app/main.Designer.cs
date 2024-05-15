@@ -1,6 +1,6 @@
 ﻿namespace HesapMakinesiOdev
 {
-    partial class Form1
+    partial class main
     {
         /// <summary>
         ///Gerekli tasarımcı değişkeni.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(main));
             this.sifirTusu = new System.Windows.Forms.Button();
             this.birTusu = new System.Windows.Forms.Button();
             this.ikiTusu = new System.Windows.Forms.Button();
